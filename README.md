@@ -1,1 +1,1 @@
-My solutions to some code forces problems.
+My solutions to some codeforces problems.
